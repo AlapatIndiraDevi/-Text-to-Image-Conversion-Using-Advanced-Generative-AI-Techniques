@@ -39,7 +39,7 @@ project-root/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/text-to-image-generator.git
+   git clone https://github.com/AlapatIndiraDevi/-Text-to-Image-Conversion-Using-Advanced-Generative-AI-Techniques
    cd text-to-image-generator
    
 2. **Install dependencies**
